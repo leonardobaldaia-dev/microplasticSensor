@@ -41,6 +41,5 @@ O projeto consiste em um código Arduino que realiza as seguintes funções prin
 - LED
 - IDE Arduino
 
-## Contato
-
-Para mais informações, entre em contato com os integrantes do projeto.
+## Link do tinkercad
+https://www.tinkercad.com/things/c0VkTtRjiKz-epic-crift-habbi/editel?tenant=circuits
